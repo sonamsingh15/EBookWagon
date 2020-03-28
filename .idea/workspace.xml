@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a78230bf-8333-4f32-be3f-b1733b54973e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkWsPmkLmIB6K9HV8lx27BGi2B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="listerns" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="script" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.SearchBookTest.givenMethodForSearchBook">
+    <configuration name="SearchBookTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;script.SearchBookTest&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchBookTest.givenMethodForSearchBook" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;script.SearchBookTest.givenMethodForSearchBook&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SearchBookTest.givenMethodForSearchBook" />
+        <item itemvalue="Gradle.SearchBookTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a78230bf-8333-4f32-be3f-b1733b54973e" name="Default Changelist" comment="" />
+      <created>1585383778791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585383778791</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="783" y="201" width="573" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585387575791">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="783" y="201" width="573" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1585387575791" />
+    <state x="524" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1585391065670">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="108" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1585391065670" />
+    <state width="1253" height="188" key="GridCell.Tab.0.bottom" timestamp="1585401972419">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="188" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1585401972419" />
+    <state width="1253" height="188" key="GridCell.Tab.0.center" timestamp="1585401972418">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="188" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1585401972418" />
+    <state width="1253" height="188" key="GridCell.Tab.0.left" timestamp="1585401972418">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="188" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1585401972418" />
+    <state width="1253" height="188" key="GridCell.Tab.0.right" timestamp="1585401972418">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="188" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1585401972418" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1585387612262">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1585387612262" />
+    <state x="728" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1585386477980">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="728" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1585386477980" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1585393580321">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1585393580321" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/script/SearchBookTest.java</url>
+          <line>39</line>
+          <properties class="script.SearchBookTest" method="givenMethodForSearchBook">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
